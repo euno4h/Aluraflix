@@ -6,10 +6,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px #3ea6ff;
+    border-bottom: solid 2px #e20000;
     padding: 20px;
     font-size: 32px;
-    color: #3ea6ff;
+    color: #e20000;
 }
 
 .chamada {
