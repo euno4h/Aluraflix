@@ -13,7 +13,7 @@ header {
 }
 
 .chamada {
-    background: #b89cd5;
+    background: #f30000;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -59,7 +59,7 @@ img {
 }
 
 .categoria h2 {
-    color: #2a7ae4;
+    color: #e20000;
 }
 
 .categoria-subtitulo {
@@ -70,12 +70,12 @@ img {
 }
 
 .categoria-subtitulo h2 {
-    color: #2a7ae4;
+    color: #e20000;
     margin: 0;
 }
 
 #toggle-button {
-    background-color: #2a7ae4;
+    background-color: #e20000;
     color: white;
     border: none;
     padding: 8px 12px;
@@ -86,6 +86,6 @@ img {
 }
 
 #toggle-button:hover {
-    background-color: #1a5bb8;
+    background-color: #e20000;
     color: #000;
 }
